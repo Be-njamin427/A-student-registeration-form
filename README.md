@@ -1,2 +1,2 @@
-# Login-form
-this is a login form
+# Student registration form
+this is an student registration form
